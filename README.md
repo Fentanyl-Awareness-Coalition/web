@@ -17,7 +17,13 @@
 
 ## Mission
 
-(Members will describe Mission and create statement or basics prior to logo/styling)
+The Fentanyl Awareness Coalition (FAC) is founded by bereaved families who have lost loved ones to the fentanyl epidemic. Our energies are directed toward the following goals: 
+
+- We advocate for the reduction and restriction of illicit Synthetic Analogues in the United States; 
+
+- We endeavor to raise awareness about the new and unique risks – to all segments of our society – resulting from the sudden influx of illicit Synthetic drugs into the United States;
+
+- We will accomplish this through our affiliation with member organizations throughout the United States.
 
 ## Taglines
 
